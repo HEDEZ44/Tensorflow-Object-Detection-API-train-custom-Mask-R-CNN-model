@@ -2,7 +2,7 @@
 
 [![TensorFlow 2.5](https://img.shields.io/badge/TensorFlow-2.5-FF6F00?logo=tensorflow)](https://github.com/tensorflow/tensorflow/releases/tag/v2.5.0)
 
-![Mask R-CNN prediction](doc/download(1).png =250x250)
+![Mask R-CNN prediction](doc/prediction_1.png)
 
 ## 1. Installation
 
